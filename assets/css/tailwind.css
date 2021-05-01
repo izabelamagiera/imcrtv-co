@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  color: #4e4847;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.objektiv {
+  font-family: objektiv-mk1, sans-serif;
+}
+.tenez {
+  font-family: tenez, sans-serif;
+  font-weight: 300;
+}
+.light {
+  font-weight: 300;
+}
+.regular {
+  font-weight: 400;
+}
+.medium {
+  font-weight: 500;
+}
+.color-base {
+  color: #4e4847;
+}
+.bg-light {
+  background-color: rgba(247, 241, 236, 0.5);
+}
+.bg-tan {
+  background-color: #fff2e8;
+}
+.text-lrg {
+  font-size: 2.5rem;
+}
+.radius-br {
+  border-bottom-right-radius: 55px;
+}
