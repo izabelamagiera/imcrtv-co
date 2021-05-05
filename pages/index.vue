@@ -15,7 +15,7 @@
           >
             full Stack front-end developer
           </p>
-          <p class="tenez text-center text-lrg leading-11">
+          <p class="tenez text-center text-lrg leading-9 md:leading-11">
             I code & build user centred websites and ecommerce shops with a
             strong focus on flawless functionality and improved SEO
           </p>
