@@ -170,8 +170,4 @@ export default {
 }
 </script>
 
-<style scope>
-.is-sticky {
-  opacity: 1;
-}
-</style>
+<style scope></style>
