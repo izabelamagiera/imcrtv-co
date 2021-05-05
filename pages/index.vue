@@ -2,25 +2,25 @@
   <div class="w-full">
     <div>
       <h2
-        class="objektiv light text-2xl text-center color-base p-8 py-14 uppercase tracking-wider"
+        class="objektiv light text-2xl text-center color-base p-2 pr-8 md:p-8 py-14 uppercase tracking-wider"
       >
         izabela magiera
       </h2>
     </div>
     <div class="pr-12 md:pr-24">
       <div class="w-full relative bg-tan px-12 lg:pr-24 lg:pl-48">
-        <div class="container mx-auto max-w-3xl px-8 pt-36 pb-4">
+        <div class="container mx-auto max-w-3xl md:px-8 pt-36 pb-4">
           <p
-            class="sofia medium text-xs text-center regular tracking-wider mb-2 uppercase"
+            class="sofia medium text-xs text-center regular tracking-wider mb-4 uppercase"
           >
             full Stack front-end developer
           </p>
-          <p class="tenez text-center text-lrg">
+          <p class="tenez text-center text-lrg leading-11">
             I code & build user centred websites and ecommerce shops with a
             strong focus on flawless functionality and improved SEO
           </p>
           <div
-            class="grid grid-cols-2 md:grid-cols-4 mx-auto max-w-lg mt-4 text-center"
+            class="grid grid-cols-2 md:grid-cols-4 mx-auto max-w-lg mt-8 text-center"
           >
             <div class="my-2 block mx-auto w-24 text-center">
               <img src="logo-webflow-p-500.png" alt="" />
@@ -39,10 +39,10 @@
       </div>
     </div>
     <div id="anime" class="pr-12 md:pr-24 sticky top-0 z-50">
-      <div class="w-full relative bg-tan pl-24 py-12 radius-br">
+      <div class="w-full relative bg-tan pl-12 md:pl-24 py-12 radius-br">
         <h2
           id="showLogo"
-          class="objektiv light text-2xl text-center color-base uppercase tracking-wider -mt-1 opacity-0"
+          class="objektiv light text-2xl text-left md:text-center color-base uppercase tracking-wider -mt-1 opacity-0 pr-10"
         >
           izabela magiera
         </h2>

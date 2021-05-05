@@ -4,7 +4,9 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-24">
         <div>
           <h3 class="tenez text-left text-lrg">About me</h3>
-          <p class="sofia light text-justify tracking-wide mt-4 leading-7">
+          <p
+            class="sofia light text-left md:text-justify tracking-wide mt-4 leading-7"
+          >
             I am a London based full-stack developer with design background
             crafting clean and functional websites and online shops. I
             collaborate with design creatives and agencies alike to lend my
@@ -17,7 +19,7 @@
             <div>
               <h3 class="tenez text-left text-lrg">Services</h3>
 
-              <ul class="sofia light text-justify tracking-wide mt-4 leading-7">
+              <ul class="sofia light text-left tracking-wide mt-4 leading-7">
                 <li>Full stack development</li>
                 <li>Responsive websites</li>
                 <li>Webflow Build</li>
@@ -28,7 +30,7 @@
             </div>
             <div>
               <h3 class="tenez text-left text-lrg">Stack</h3>
-              <ul class="sofia light text-justify tracking-wide mt-4 leading-7">
+              <ul class="sofia light text-left tracking-wide mt-4 leading-7">
                 <li>Vue JS</li>
                 <li>Nuxt JS</li>
                 <li>JavaScript</li>

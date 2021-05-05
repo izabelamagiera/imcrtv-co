@@ -130,4 +130,7 @@
   .slick-initialized .slick-slide[data-v-e4caeaf8] {
     margin-right: 0px;
   }
+  .text-lrg {
+    font-size: 1.8rem;
+  }
 }
