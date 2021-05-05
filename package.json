@@ -12,8 +12,15 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/style-resources": "^1.0.0",
     "core-js": "^3.8.3",
-    "nuxt": "^2.14.12"
+    "gsap": "^3.6.1",
+    "nuxt": "^2.14.12",
+    "swiper": "^6.5.9",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-concise-slider": "^3.4.4",
+    "vue-flickity": "^1.2.1",
+    "vue-slick-carousel": "^1.0.6"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^5.0.0",

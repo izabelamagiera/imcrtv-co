@@ -17,14 +17,21 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://use.typekit.net/fxp6opt.css' },
     ],
+    script: [
+      {
+        hid: 'scrollTrigger',
+        src:
+          'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js',
+        defer: true,
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
-
+  plugins: [{ src: './plugins/vue-concise-slider.js', mode: 'client' }],
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 

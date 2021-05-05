@@ -11,6 +11,9 @@
 .objektiv {
   font-family: objektiv-mk1, sans-serif;
 }
+.sofia {
+  font-family: sofia-pro, sans-serif;
+}
 .tenez {
   font-family: tenez, sans-serif;
   font-weight: 300;
@@ -31,11 +34,100 @@
   background-color: rgba(247, 241, 236, 0.5);
 }
 .bg-tan {
-  background-color: #fff2e8;
+  /* background-color: #fff2e8; */
+  background-color: #fbf8f5;
 }
 .text-lrg {
   font-size: 2.5rem;
 }
+.leading-11 {
+  line-height: 3rem;
+}
 .radius-br {
   border-bottom-right-radius: 55px;
+}
+.logo-spin {
+  width: 100px;
+  height: auto;
+  z-index: 99;
+}
+.bg-sq-image {
+  padding-bottom: 100%;
+}
+.realwork {
+  background-image: url('~/static/realwork-web.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bodhi {
+  background-image: url('~/static/bodhi-ivy-web.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.inspiration-spaces {
+  background-image: url('~/static/inspiration-spaces-web.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.olysheet {
+  background-image: url('~/static/oly-sheet-web.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.thegate {
+  background-image: url('~/static/the-gate-london-web.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.beliza {
+  background-image: url('~/static/beliza-web.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.slick-track[data-v-e4caeaf8] {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: stretch !important;
+  height: 100% !important;
+}
+.box {
+  transition: 1s;
+  display: block !important;
+  height: 100% !important;
+}
+.box:hover {
+  border-bottom-right-radius: 55px;
+  /* background-color: #ffe2c4; */
+  background-color: #f2e6dc;
+  transition: 1s;
+}
+.bg-wrap {
+  display: block !important;
+  height: 100% !important;
+}
+.slick-initialized .slick-slide[data-v-e4caeaf8] {
+  display: flex !important;
+  flex-direction: column !important;
+  height: auto !important;
+  align-items: stretch !important;
+  background-color: #fbf8f5;
+  margin-right: 88px;
+  transition: 1s;
+}
+.slick-initialized .slick-slide[data-v-e4caeaf8]:hover {
+  border-bottom-right-radius: 55px;
+  /* background-color: #ffe2c4; */
+  background-color: #f2e6dc;
+  transition: 1s;
+}
+@media screen and (max-width: 767px) {
+  .slick-initialized .slick-slide[data-v-e4caeaf8] {
+    margin-right: 0px;
+  }
 }
