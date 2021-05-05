@@ -14,7 +14,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/imcrtv-favicon.png' },
       { rel: 'stylesheet', href: 'https://use.typekit.net/fxp6opt.css' },
     ],
     script: [
