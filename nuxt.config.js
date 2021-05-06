@@ -67,7 +67,11 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/imcrtv-favicon.png' },
-      { rel: 'stylesheet', href: 'https://use.typekit.net/fxp6opt.css' },
+      {
+        rel: 'stylesheet',
+        href: 'https://use.typekit.net/fxp6opt.css',
+        media: 'screen',
+      },
     ],
     script: [
       {
