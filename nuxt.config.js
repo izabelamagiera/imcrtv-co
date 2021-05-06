@@ -4,14 +4,66 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'imcrtv-co',
+    title: 'Izabela Magiera | Jamstack Developer',
     htmlAttrs: {
       lang: 'en',
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'Jamstack front-end developer building modern, user centred websites and ecommerce shops.',
+      },
+      {
+        hid: 'twitter:title',
+        name: 'twitter:title',
+        content: 'Izabela Magiera | Jamstack developer',
+      },
+      {
+        hid: 'twitter:description',
+        name: 'twitter:description',
+        content:
+          'Full stack front-end developer building modern websites and ecommerce shops',
+      },
+      {
+        hid: 'twitter:image',
+        name: 'twitter:image',
+        content: '/imcrtv-social.jpg',
+      },
+      {
+        hid: 'twitter:image:alt',
+        name: 'twitter:image:alt',
+        content: 'Wesbite of full stack developer',
+      },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'Izabela Magiera | Jamstack developer',
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content:
+          'Full stack front-end developer building modern websites and ecommerce shops',
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: '/imcrtv-social.jpg',
+      },
+      // {
+      //   hid: 'og:image:secure_url',
+      //   property: 'og:image:secure_url',
+      //   content: this.image,
+      // },
+      {
+        hid: 'og:image:alt',
+        property: 'og:image:alt',
+        content: 'Izabela Magiera | Jamstack developer',
+      },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/imcrtv-favicon.png' },

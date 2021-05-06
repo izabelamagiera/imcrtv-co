@@ -151,7 +151,7 @@ export default {
         scrollTrigger: {
           trigger: '#anime',
           start: '0 0',
-          toggleActions: 'play none resume reset',
+          toggleActions: 'play none none reset',
         },
         duration: 0.75,
         opacity: 1,
