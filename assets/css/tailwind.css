@@ -58,37 +58,37 @@
   padding-bottom: 100%;
 }
 .realwork {
-  background-image: url('~/static/realwork-web.jpeg');
+  background-image: url('~/static/realwork-web.webp');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .bodhi {
-  background-image: url('~/static/bodhi-ivy-web.jpg');
+  background-image: url('~/static/bodhi-ivy-web.webp');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .inspiration-spaces {
-  background-image: url('~/static/inspiration-spaces-web.jpg');
+  background-image: url('~/static/inspiration-spaces-web.webp');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .olysheet {
-  background-image: url('~/static/oly-sheet-web.jpg');
+  background-image: url('~/static/oly-sheet-web.webp');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .thegate {
-  background-image: url('~/static/the-gate-london-web.jpg');
+  background-image: url('~/static/the-gate-london-web.webp');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .beliza {
-  background-image: url('~/static/beliza-web.jpg');
+  background-image: url('~/static/beliza-web.webp');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
