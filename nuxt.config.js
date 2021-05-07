@@ -70,7 +70,7 @@ export default {
       {
         rel: 'stylesheet',
         href: 'https://use.typekit.net/fxp6opt.css',
-        disabled: true,
+        media: 'all',
       },
     ],
     script: [
